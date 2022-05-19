@@ -73,8 +73,6 @@ const routes = [
         handler: deleteNoteByIdHandler,
 
     },
-
 ];
 
 module.exports = routes;
-
